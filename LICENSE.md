@@ -1,4 +1,4 @@
-# 
+# ultimate dexscreener sniper bot | simulation-mode + front-running is the best dexscreener sniper bot, featuring simulation-mode and front-running. Fast, smart, and optimized for
 
 
 
